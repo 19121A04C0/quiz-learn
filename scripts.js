@@ -87,8 +87,8 @@ const questions = [
     answers: [
       {text:"Thar",correct:false},
       {text:"Gobi",correct:false},
-      {text:"Sahara",correct:false},
-      {text:"Arctic",correct:true},
+      {text:"Sahara",correct:true},
+      {text:"Arctic",correct:false},
     ]
   },
   {
